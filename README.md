@@ -13,6 +13,7 @@ Skills:
 - Design Patterns
 - HTML & CSS, VueJS, TypeScript & NodeJS basics
 
+- 📫 How to reach me: otto.visocks@gmail.com | https://www.linkedin.com/in/ottovisocks/
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottovisocks&hide_title=true&layout=compact)](https://github.com/ottovisocks?tab=repositories)
