@@ -3,9 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 I am a C # / .Net developer with my view of things. Life is one big learning process in which I also take an active part. Here you can view my personal and training projects.
 
-
-
-📫 How to reach me: otto.visocks@gmail.com <|> https://www.linkedin.com/in/ottovisocks/
+📫 How to reach me: otto.visocks@gmail.com <|> https://www.linkedin.com/in/ottovisocks
 
 Skills:
 - C#/.NET, Ruby
@@ -23,7 +21,6 @@ Some of my projects:
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottovisocks&hide_title=true&layout=compact)](https://github.com/ottovisocks?tab=repositories)
-
 
 <!--
 **ottovisocks/ottovisocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
