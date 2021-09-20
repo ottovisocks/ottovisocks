@@ -1,7 +1,12 @@
-<h1>Hi there, I'm <a href="https://www.linkedin.com/in/ottovisocks/" target="_blank">Otto Visocks</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h2>Hi there, I'm Otto Visocks <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h2>
 
 <br />
+I am a C # / .Net developer with my view of things. Life is one big learning process in which I also take an active part. Here you can view my personal and training projects.
+
+<br />
+
+- 📫 How to reach me: otto.visocks@gmail.com | https://www.linkedin.com/in/ottovisocks/
 
 Skills:
 - C#/.NET, Ruby
@@ -13,7 +18,9 @@ Skills:
 - Design Patterns
 - HTML & CSS, VueJS, TypeScript & NodeJS basics
 
-- 📫 How to reach me: otto.visocks@gmail.com | https://www.linkedin.com/in/ottovisocks/
+Some of my projects:
+- ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/ottovisocks/Flight-planner)
+- ⚡ [ReactApp Places (React, JS, HTML, CSS)](https://github.com/ottovisocks/reactApp_Places)
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottovisocks&hide_title=true&layout=compact)](https://github.com/ottovisocks?tab=repositories)
@@ -32,4 +39,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🛴
 -->
