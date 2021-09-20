@@ -14,6 +14,9 @@ Skills:
 - HTML & CSS, VueJS, TypeScript & NodeJS basics
 
 
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottovisocks&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ottovisocks/ottovisocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
