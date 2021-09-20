@@ -1,12 +1,11 @@
 <h2>Hi there, I'm Otto Visocks <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h2>
 
-<br />
 I am a C # / .Net developer with my view of things. Life is one big learning process in which I also take an active part. Here you can view my personal and training projects.
 
-<br />
 
-- 📫 How to reach me: otto.visocks@gmail.com | https://www.linkedin.com/in/ottovisocks/
+
+📫 How to reach me: otto.visocks@gmail.com | https://www.linkedin.com/in/ottovisocks/
 
 Skills:
 - C#/.NET, Ruby
