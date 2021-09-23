@@ -17,7 +17,7 @@ Skills:
 
 Some of my projects:
 - ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/ottovisocks/Flight-planner)
-- ⚡ [ReactApp Places (React, JS, HTML, CSS)](https://github.com/ottovisocks/reactApp_Places)
+- ⚡ [ReactApp Places (Frontend)(React, JS, HTML, CSS)](https://github.com/ottovisocks/reactApp_Places)
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottovisocks&hide_title=true&layout=compact)](https://github.com/ottovisocks?tab=repositories)
