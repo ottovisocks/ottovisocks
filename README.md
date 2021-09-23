@@ -6,7 +6,7 @@ I am a C # / .Net developer with my view of things. Life is one big learning pro
 📫 How to reach me: otto.visocks@gmail.com <|> https://www.linkedin.com/in/ottovisocks
 
 Skills:
-- C#/.NET,
+- C# / .NET,
 - Relational Databases & SQL
 - HTTP & WEB API
 - Unit Testing
