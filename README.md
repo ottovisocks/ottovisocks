@@ -5,15 +5,13 @@ I am a C # / .Net developer with my view of things. Life is one big learning pro
 
 📫 How to reach me: otto.visocks@gmail.com <|> https://www.linkedin.com/in/ottovisocks
 
-Skills:
-- C# / .NET
-- Relational Databases & SQL
-- HTTP & WEB API
-- Unit Testing
-- Test Driven Development
-- Clean Code, SOLID
-- Design Patterns
-- HTML & CSS, VueJS, TypeScript & NodeJS basics
+---
+
+🧰 **Toolbox**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TS" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="50"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50">
+
+---
 
 Some of my projects:
 - ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/ottovisocks/Flight-planner)
