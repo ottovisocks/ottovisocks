@@ -16,6 +16,7 @@ I am a C # / .Net developer with my view of things. Life is one big learning pro
 Some of my projects:
 - ✈️ [Flight Planner API (ASP.NET Core, Entity Framework, Microsoft SQL Server)](https://github.com/ottovisocks/Flight-planner)
 - ⚡ [ReactApp Places (Frontend)(React, JS, HTML, CSS)](https://github.com/ottovisocks/reactApp_Places)
+- 🚧 [ScootersRental (C# / .Net, Unit Testing)](https://github.com/ottovisocks/ScootersRental) Almost done, some issues to fix.
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottovisocks&hide_title=true&layout=compact)](https://github.com/ottovisocks?tab=repositories)
