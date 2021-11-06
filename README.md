@@ -3,8 +3,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 I am a C # / .Net developer with my view of things. Life is one big learning process in which I also take an active part. Here you can view my personal and training projects.
 
-📫 How to reach me: otto.visocks@gmail.com 《 》 https://www.linkedin.com/in/ottovisocks ♯
-
 ---
 
 🧰 **Toolbox**
