@@ -1,7 +1,7 @@
 <h2>Hi there, I'm Otto Visocks <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h2>
 
-I am a C # / .Net developer with my view of things. Life is one big learning process in which I also take an active part. Here you can view my personal and training projects.
+I am a C#/.Net, Flutter (Dart), React TS, React Native developer with my view of things. Life is one big learning process in which I also take an active part. Here you can view my personal and training projects.
 
 ---
 
